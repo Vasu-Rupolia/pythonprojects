@@ -2,7 +2,7 @@ import turtle
 myturtle = turtle.Turtle()
 myscreen = turtle.Screen()
 myscreen.bgcolor("black")
-myturtle.color("yellow")
+myturtle.color("white")
 
 myturtle.pensize(5)
 myturtle.speed(7)
